@@ -1,0 +1,11 @@
+{
+  "name": "wertube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube with Vanilla and Node",
+  "main": "index.js",
+  "author": "RCM",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
